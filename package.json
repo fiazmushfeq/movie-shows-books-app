@@ -1,0 +1,19 @@
+{
+  "name": "media-tracker",
+  "version": "1.0.0",
+  "description": "A simple app to track movies, books, and TV shows",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "NODE_ENV=development electron .",
+    "build": "electron-builder",
+    "dist": "electron-builder --publish=never"
+  },
+  "keywords": ["electron", "media", "tracker"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.0.0",
+    "electron-builder": "^24.0.0"
+  }
+}
