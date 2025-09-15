@@ -13,7 +13,11 @@ A simple desktop application built with Electron to help you track and organize 
 
 ## Screenshots
 
-*Add screenshots of your application here*
+![Books View](assets/books.png)
+
+![Movies View](assets/movie.png)
+
+![Shows View](assets/shows.png)
 
 ## Installation
 
@@ -35,17 +39,20 @@ A simple desktop application built with Electron to help you track and organize 
 #### Steps
 
 1. **Clone the repository**
+
    ```bash
-   git clone https://github.com/yourusername/media-tracker.git
+   git clone https://github.com/fiazmushfeq/media-tracker.git
    cd media-tracker
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Run in development mode**
+
    ```bash
    npm run dev
    ```
@@ -145,7 +152,7 @@ If you encounter any issues or have questions:
 ## Acknowledgments
 
 - Built with [Electron](https://www.electronjs.org/)
-- Icons from [Your Icon Source]
+- Powered in part by [ChatGPT](https://openai.com/chatgpt) and [Claude](https://claude.ai/) for code suggestions and documentation help
 - Thanks to all contributors who help improve this project
 
 ---
